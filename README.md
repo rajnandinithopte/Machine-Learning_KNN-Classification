@@ -70,3 +70,7 @@ To execute this project, the following Python libraries were used:
 ### 🔶 6. Final Evaluation
 - Reported lowest training error achieved across all experiments.
 - Summarized findings on the best k-value, distance metric, and voting method.
+
+  ---
+## 📌 **Note**
+This repository contains a **Jupyter Notebook** detailing each step, along with **results and visualizations**.
